@@ -1,8 +1,5 @@
 # Insurance Analytics Dashboard — Power BI
 
-**Auto-generated analysis and README**
-*Analyzed on 2025-09-24 12\:XX\:XX*
-
 ## Project summary
 
 This Power BI report (`PrismDashboard.pbix`) is an interactive **Insurance Analytics Dashboard** built on a single table dataset named **InsuranceData**. It contains (detected) key KPIs, slicers, distribution charts and a pivot table to explore policies, claims, and customer demographics.
